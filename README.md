@@ -220,7 +220,7 @@ There are three customisable options:
 
 ```javascript
 DD.bp.options({
-    baseFontSize: 16
+    baseFontSize: 16,
     isResponsive: true,
     breakpoints: [
         { name: 'small', px: 400 },
